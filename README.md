@@ -2,12 +2,17 @@
 
 ## Description
 
-This repository contains a project for a class at MEF University. The goal of the project is to develop a machine learning model for recognizing German traffic signs using TensorFlow, an end-to-end open source platform for machine learning.
+***This repository contains a project for a class at MEF University.*** The goal of the project is to develop a machine learning model for recognizing German traffic signs using TensorFlow, an end-to-end open source platform for machine learning.
 
 
 ## Dataset
 
 The dataset used in this project is the "GTSRB - German Traffic Sign Recognition Benchmark" dataset, obtained from Kaggle (https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign). This dataset has more than 50,000 images of 43 different traffic signs.
+
+Detailed information about the dataset can be found [here](https://benchmark.ini.rub.de/gtsrb_dataset.html)
+
+
+![Example Images](https://github.com/ozenalp/traffic-sign-classification/blob/main/example_images.jpeg)
 
 ## Requirements
 
@@ -26,4 +31,3 @@ The implementation is based on the following paper: [Multi-column Deep Neural Ne
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
