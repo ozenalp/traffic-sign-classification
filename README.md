@@ -11,9 +11,7 @@ The dataset used in this project is the "GTSRB - German Traffic Sign Recognition
 
 Detailed information about the dataset can be found [here](https://benchmark.ini.rub.de/gtsrb_dataset.html)
 
-
-![Example Images](https://github.com/ozenalp/traffic-sign-classification/blob/main/example_images.jpeg)
-
+<img src="https://github.com/ozenalp/traffic-sign-classification/blob/main/example_images.jpeg" alt="Example Image" width="200">
 
 ## Requirements
 
