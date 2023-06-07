@@ -14,6 +14,7 @@ Detailed information about the dataset can be found [here](https://benchmark.ini
 
 ![Example Images](https://github.com/ozenalp/traffic-sign-classification/blob/main/example_images.jpeg)
 
+
 ## Requirements
 
 The main requirements for this project are:
